@@ -135,3 +135,8 @@ output
 *.min.*
 public
 temp
+
+# lock file
+*.lock
+package-lock.json
+pnpm-lock.yaml
