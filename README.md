@@ -1,4 +1,4 @@
-# @col0ring/eslint-config
+# @col0ring/prettier-config
 
 Col0ring's Prettier Config Presets.
 
@@ -30,8 +30,8 @@ Copy the ignore file to your project folder.
 
 ```sh
 # unix
-cp "node_modules\@col0ring\prettier-config\.prettierignore" ".prettierignore"
+cp "node_modules/@col0ring/prettier-config/.prettierignore" ".prettierignore"
 
 # windows
-copy "node_modules\@col0ring\prettier-config\.prettierignore" ".prettierignore"
+copy "node_modules/@col0ring/prettier-config/.prettierignore" ".prettierignore"
 ```
