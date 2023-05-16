@@ -1,9 +1,9 @@
 /**
  *
- * @param {Boolean} organize - default: true
+ * @param {Boolean} organize - default: false
  * @returns
  */
-module.exports = (organize = true) => ({
+module.exports = (organize = false) => ({
   printWidth: 80,
   tabWidth: 2,
   useTabs: false,
